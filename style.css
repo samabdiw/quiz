@@ -1,0 +1,36 @@
+body {
+    background-color: #faf8f8;
+}
+ 
+.grid {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 2px solid #cbcbcb;
+    
+}
+ 
+.grid h1 {
+    font-family: "sans-serif";
+    background-color: #636462;
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    
+}
+ 
+#score {
+    color: #080808;
+    text-align: center;
+    font-size: 50px;
+}
+ 
+.grid #question {
+    font-family: "monospace";
+    font-size: 30px;
+    color: #818181;
+}
+ 
+
+ 
